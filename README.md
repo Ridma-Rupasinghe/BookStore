@@ -32,3 +32,12 @@ MongoDB
 
 
 
+
+## Features
+
+- User login
+- Use register
+- Admin can add and edit books
+- Users can search and view books
+
+
