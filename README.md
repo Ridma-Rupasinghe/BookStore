@@ -1,2 +1,0 @@
-#BookStore
-Full Stack Project
