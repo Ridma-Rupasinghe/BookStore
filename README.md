@@ -33,8 +33,8 @@ Docker
 
 ## Run
 
-1 Run Docker Desktop
-2 Run below command in a terminal
+### Run Docker Desktop
+### Run below command in a terminal
 
 - docker compose up --build
 
