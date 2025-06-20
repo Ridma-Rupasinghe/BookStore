@@ -25,6 +25,10 @@ Full stack web application that enable users to view and search books and admin 
 ### Database
 
 MongoDB
+
+### Containerization
+
+Docker
  
 
  
